@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name                   Class
+ 00000H 0027FH 00280H _TEXT                  CODE
+ 00280H 00373H 000F4H _DATA                  DATA
+ 00380H 0047FH 00100H STACK                  STACK
+
+ Origin   Group
+ 0028:0   DGROUP
+
+Program entry point at 0000:0000
